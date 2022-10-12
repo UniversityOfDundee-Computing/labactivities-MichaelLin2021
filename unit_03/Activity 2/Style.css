@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+/*
+#272727
+#d4aa7d
+#efd09e
+#d2d8b3
+#90a9b7
+*/
+
+
+
+#menu{
+    max-width: 1000px;margin: auto;background-color: aquamarine;
+}
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    display: table;
+    overflow: hidden;
+    background-color: #222;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(31, 171, 218);
+}
+
+
+h1 {
+    text-align: center;font-family: 'Pacifico', cursive;
+    }
+
+h2,p {
+    text-align: center;font-family: 'Roboto Condensed', sans-serif;
+}
+
+nav{
+    background-color: #222;
+}
